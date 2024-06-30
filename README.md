@@ -21,10 +21,3 @@ This is a simple weather application built using Kotlin. It fetches weather data
 - Kotlin
 - OpenWeather API Key
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/weather-android-app.git
-cd weather-android-app
